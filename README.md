@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It was build after the udemy course [Complete React Developer in 2020](https://www.udemy.com/share/101WH4AEMZdFpRQHwC/)
 
 ## Available Scripts
 
